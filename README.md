@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...
 -->
 
-![Most Used Langagues](https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhsurendran&layout=compact&theme=transparent)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhsurendran&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
