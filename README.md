@@ -14,7 +14,7 @@
 -->
 
 - 📫 Contact me at [vishakhsurendran@icloud.com](mailto:vishakhsurendran@icloud.com)
-- 📊 I'm currently working on Data Visualization!
+- 📊 I'm currently working on data visualization tools!
 
 <div align="center">
   
