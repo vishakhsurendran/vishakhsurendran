@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Vishakh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishakhsurendran)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Langagues](https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhsurendran&layout=compact$theme=transparent)
