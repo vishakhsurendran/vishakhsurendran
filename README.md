@@ -12,9 +12,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
+📫 Contact me at [vishakhsurendran@icloud.com](mailto:vishakhsurendran@icloud.com)
 
-- 📫 Contact me at [vishakhsurendran@icloud.com](mailto:vishakhsurendran@icloud.com)
-- 📊 I'm currently working on artificial intelligence tools!
+📊 I'm currently working on artificial intelligence tools!
+
+</div>
 
 <div align="center">
 Visit my website! 
