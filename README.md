@@ -1,4 +1,4 @@
-## vishakhsurendran 👋
+<h1 align="center">vishakhsurendran 👋</h1>
 
 <!--
 **vishakhsurendran/vishakhsurendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,7 @@
 -->
 
 - 📫 Contact me at [vishakhsurendran@icloud.com](mailto:vishakhsurendran@icloud.com)
-- 📊 I'm currently working on data visualization tools!
-
-<div align="center">
-  
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhsurendran&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+- 📊 I'm currently working on artificial intelligence tools!
 
 <div align="center">
 Visit my website! 
